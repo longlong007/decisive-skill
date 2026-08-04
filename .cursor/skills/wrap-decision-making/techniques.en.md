@@ -97,13 +97,21 @@ References: David Lee Roth's brown M&M (small signal detecting big problems); Za
 
 ---
 
-## Villain ↔ Step Quick Reference
+## Villain → Technique Binding (with output caps)
 
-```
-Narrow framing      → W (Widen Your Options)
-Confirmation bias   → R (Reality-Test Your Assumptions)
-Short-term emotion  → A (Attain Distance Before Deciding)
-Overconfidence      → P (Prepare to Be Wrong)
-```
+Pick **one primary** villain. Cap outputs even if multiple villains appear:
 
-If multiple villains appear, still walk W→R→A→P once, marking each step as applicable or skipped.
+| Villain | Step | Primary technique | Max output |
+|---------|------|-------------------|------------|
+| Narrow framing | W | Vanishing options test **or** multitracking | +1 AI option, 1 baseline |
+| Confirmation bias | R | Disconfirming question **or** ooch | 1 assumption, 1 disconfirm |
+| Short-term emotion | A | Friend test **or** 10/10/10 **or** core priorities | 1 distance line |
+| Overconfidence | R + P | Zoom out (base rates) + premortem + tripwire | 1 base-rate Q, 1 scenario, 1 tripwire |
+
+Secondary villains: mention in prose only — do not expand lists.
+
+Still walk W→R→A→P once; mark each step applied / satisfied / skipped.
+
+## External facts
+
+Prices, statistics, policies, market rates not from the user → append `(pending verification)` or replace with a 48h user verification action. See [SKILL.md](SKILL.md).
