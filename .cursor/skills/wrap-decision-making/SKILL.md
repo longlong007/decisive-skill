@@ -271,3 +271,4 @@ Never present unverified numbers as grounds for Recommendation.
 - 中文流程与模板: [reference.zh.md](reference.zh.md)
 - 中文技法: [techniques.zh.md](techniques.zh.md)
 - Framework source: [Decisive](https://heathbrothers.com/books/decisive/) — Chip Heath & Dan Heath
+- Time scarcity, overwhelm, or finitude anxiety underlying the choice → [four-thousand-weeks](../four-thousand-weeks/SKILL.md)

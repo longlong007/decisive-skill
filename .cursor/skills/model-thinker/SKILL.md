@@ -175,3 +175,10 @@ Primary: …
 - 不平等未知机制 → Gate（独立加总 vs 优先连接？）
 - 功能会否传播 → Lite：巴斯/SIR + 阈值 + 网络
 - 政策议题 → Full：Act+Explain，读 reference 对应 3 节
+
+## Additional Resources
+
+- Full concept library: [reference.zh.md](reference.zh.md) · [reference.en.md](reference.en.md)
+- Important personal option choice → [wrap-decision-making](../wrap-decision-making/SKILL.md)
+- Strategic interdependence with others → [thinking-strategically](../thinking-strategically/SKILL.md)
+- Time, finitude, or productivity overwhelm → [four-thousand-weeks](../four-thousand-weeks/SKILL.md)

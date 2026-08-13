@@ -177,3 +177,4 @@ Sequential / Simultaneous · One-shot / Repeated
 - Full concept library: [reference.zh.md](reference.zh.md) · [reference.en.md](reference.en.md)
 - Personal life decisions without strategic interdependence → [wrap-decision-making](../wrap-decision-making/SKILL.md)
 - System-level multi-model analysis → [model-thinker](../model-thinker/SKILL.md)
+- Time, finitude, productivity anxiety, or distraction (non-strategic) → [four-thousand-weeks](../four-thousand-weeks/SKILL.md)
